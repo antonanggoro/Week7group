@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "",
-    "database": "try_database_development",
+    "username": "caesars",
+    "password": "123456",
+    "database": "week7group_development",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "postgres",
-    "password": "",
-    "database": "try_database_test",
+    "username": "root",
+    "password": null,
+    "database": "week7group_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "postgres",
-    "password": "",
-    "database": "try_database_production",
+    "username": "root",
+    "password": null,
+    "database": "week7group_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
